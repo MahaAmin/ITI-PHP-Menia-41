@@ -1,2 +1,4 @@
 commit 1
 testing ssh keys
+commit 1 on newBranch
+commit 2 on newBranch
